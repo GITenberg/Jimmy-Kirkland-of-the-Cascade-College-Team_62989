@@ -1,0 +1,35 @@
+_repo: Jimmy-Kirkland-of-the-Cascade-College-Team_62989
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Gray, Charles Paxson
+    alias: Gray, C. P.
+    gutenberg_agent_id: '35632'
+    url: http://www.gutenberg.org/2009/agents/35632
+creator:
+  author:
+    agent_name: Fullerton, Hugh S. (Hugh Stuart)
+    alias: Fullerton, Hugh Stuart
+    birthdate: 1873
+    deathdate: 1945
+    gutenberg_agent_id: '35631'
+    url: http://www.gutenberg.org/2009/agents/35631
+    wikipedia: https://en.wikipedia.org/wiki/Hugh_Fullerton
+description: ''
+gutenberg_issued: '2020-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62989'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'College sports -- Juvenile fiction'
+- !lcsh 'Baseball -- Juvenile fiction'
+- !lcsh 'California -- Juvenile fiction'
+- !lcsh 'College students -- Juvenile fiction'
+- GITenberg
+title: Jimmy Kirkland of the Cascade College Team
+url: http://www.gutenberg.org/ebooks/62989
